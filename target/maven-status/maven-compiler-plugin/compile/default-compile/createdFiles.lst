@@ -1,0 +1,5 @@
+tn\essat\controller\AppCont.class
+tn\essat\dao\IMessage.class
+tn\essat\model\Utilisateur.class
+tn\essat\dao\IUtilisateur.class
+tn\essat\model\Message.class
